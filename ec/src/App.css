@@ -1,0 +1,39 @@
+/* product Section */
+
+#text{
+   font-size: 17px;
+   font-weight: bold;
+    padding: 50px;
+
+}
+
+
+
+
+
+/* Navbar section */
+.navD{
+
+}
+.navM{ }
+
+@media all and (max-width:500px) {
+    .navD{
+        display: none;
+    }
+    
+}
+
+@media all and (min-width:500px) {
+    .navM{
+        display: none;
+    }
+}
+.Footer{
+    background-color: black;
+}
+
+
+
+
+
